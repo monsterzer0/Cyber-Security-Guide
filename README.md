@@ -13,3 +13,5 @@
 ####项目维护
 
 Martin(sina weibo:<a href="http://weibo.com/u/1312149403" target="_blank">@Mart1n_ZHOU</a>) && Wester(sina weibo:<a href ="http://weibo.com/zzyme/" target="_blank">@西风微雨_Wester</a>)
+
+&copy;CNSISMO 2016-2017
