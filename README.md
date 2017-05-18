@@ -1,4 +1,4 @@
-## 互联网企业安全指南 - 目录
+## 互联网企业安全简明指南 - 目录
 
 <hr>
 
@@ -10,8 +10,10 @@
 
 <hr>
 
+### 致谢
+
+《互联网高级安全指南》 - 赵彦、江虎、胡乾威编著
+
 ### 编写及维护
 
 [@Wester](https://github.com/We5ter)、[@Martin](https://github.com/martinzhou2015)、[@LCatro](https://github.com/LCatro)
-
-&copy;CNSISMO 2017
